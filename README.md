@@ -16,8 +16,7 @@ This repository contains data and analysis related to the performance of our mar
 - Conversion Rate Analysis: The Conversion Rate exhibited an initial increase followed by a decrease over the observed time period.
 - ACoS Efficiency: December 2023 had the lowest ACoS value, suggesting better efficiency in advertising spend relative to sales generated.
 - RoAS Performance: February 2024 was identified as the most profitable month in terms of Return on Ad Spend, indicating higher revenue generation relative to advertising spend.
-Conclusion
-Data-driven decision making plays a critical role in optimizing our marketing strategies and driving business success. By analyzing key performance indicators and deriving actionable insights, we empower ourselves to make informed decisions, adapt to market dynamics, and achieve our business objectives.
+- Conclusion: Data-driven decision making plays a critical role in optimizing our marketing strategies and driving business success. By analyzing key performance indicators and deriving actionable insights, we empower ourselves to make informed decisions, adapt to market dynamics, and achieve our business objectives.
 
 ## Next Steps
 Further analysis to identify underlying factors influencing the observed trends in KPIs.
