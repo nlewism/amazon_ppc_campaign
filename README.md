@@ -1,4 +1,5 @@
 # Amazon PPC Campaign 
+[Direct Access to the Report](https://public.tableau.com/app/profile/natalie.lewis/viz/AmazonPPCDashboard/Report)
 ## Marketing Performance Analysis
 ### Overview
 This repository contains data and analysis related to the performance of our marketing campaigns. The data includes key performance indicators (KPIs) such as Click-Through Rate (CTR), Conversion Rate, Advertising Cost of Sales (ACoS), Return on Ad Spend (RoAS), and other relevant metrics.
